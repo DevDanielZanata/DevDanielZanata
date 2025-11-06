@@ -49,7 +49,6 @@ Atualmente me aprofundo em **C**, **Python**, **Assembly**, **Engenharia Reversa
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=DevDanielZanata&theme=tokyonight&hide_border=true&background=0D1117)  
 ![Profile Views](https://komarev.com/ghpvc/?username=DevDanielZanata&color=blueviolet&style=for-the-badge)  
 
 </div>
