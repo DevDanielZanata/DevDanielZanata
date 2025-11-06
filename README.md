@@ -26,8 +26,8 @@ Atualmente me aprofundo em **C**, **Python**, **Assembly**, **Engenharia Reversa
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dani2116&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dani2116&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevDanielZanata&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevDanielZanata&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)  
 
 </div>
 
@@ -38,7 +38,7 @@ Atualmente me aprofundo em **C**, **Python**, **Assembly**, **Engenharia Reversa
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-zanata-8755a5321/)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dani2116)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DevDanielZanata)  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/danizanata_)  
 
 </div>
@@ -49,8 +49,8 @@ Atualmente me aprofundo em **C**, **Python**, **Assembly**, **Engenharia Reversa
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Dani2116&theme=tokyonight&hide_border=true&background=0D1117)  
-![Profile Views](https://komarev.com/ghpvc/?username=Dani2116&color=blueviolet&style=for-the-badge)  
+![GitHub Streak](https://streak-stats.demolab.com?user=DevDanielZanata&theme=tokyonight&hide_border=true&background=0D1117)  
+![Profile Views](https://komarev.com/ghpvc/?username=DevDanielZanata&color=blueviolet&style=for-the-badge)  
 
 </div>
 
