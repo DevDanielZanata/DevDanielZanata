@@ -3,7 +3,7 @@
 ### 🔒 Desenvolvedor & Cibersegurança, Engenharia Reversa e Criptografia
 
 Olá! Sou **Daniel Zanata** apaixonado por entender como sistemas funcionam em baixo nível, por desmontar, analisar e reconstruir logicamente.  
-Atualmente me aprofundo em **C**, **Python**, **Assembly**, **Engenharia Reversa** e **Criptografia**, com foco em soluções de segurança, análise de binários e automação de tarefas para fins éticos.
+Atualmente me aprofundo em **C/C++**, **Python**, **Assembly**, **Engenharia Reversa** e **Criptografia**, com foco em soluções de segurança, análise de binários e automação de tarefas para fins éticos.
 
 ---
 
