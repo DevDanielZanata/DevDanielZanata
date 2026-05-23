@@ -1,55 +1,100 @@
-# Daniel Zanata
-
-### 🔒 Desenvolvedor & Cibersegurança, Engenharia Reversa e Criptografia
-
-Olá! Sou **Daniel Zanata** gosto de entender como sistemas funcionam em baixo nível, por desmontar, analisar e reconstruir logicamente.  
-Atualmente me aprofundo em **C/C++**, **Python**, **Assembly**, **Engenharia Reversa** e **Criptografia**, com foco em soluções de segurança, análise de binários e automação de tarefas para fins éticos.
-
----
-
-### 🛠️ Linguagens e Tecnologias
+<!--
+  Daniel Zanata — Security Researcher / Reverse Engineer
+-->
 
 <div align="center">
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logoColor=white)  
-![Reverse Engineering](https://img.shields.io/badge/Engenharia%20Reversa-222222?style=for-the-badge&logo=protonmail&logoColor=white)  
-![Criptografia](https://img.shields.io/badge/Criptografia-0A66C2?style=for-the-badge&logo=gnupg&logoColor=white)  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
+```
+  ██████╗ ███████╗██╗   ██╗
+  ██╔══██╗██╔════╝██║   ██║
+  ██║  ██║█████╗  ██║   ██║
+  ██║  ██║██╔══╝  ╚██╗ ██╔╝
+  ██████╔╝███████╗ ╚████╔╝
+  ╚═════╝ ╚══════╝  ╚═══╝
+```
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=1000&color=6E6E6E&center=true&vCenter=true&width=435&lines=reverse+engineer+%2F+security+researcher;low+level+%7C+C+%7C+Python+%7C+ASM;malware+analysis+%7C+binary+exploitation)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-### 📊 Estatísticas do GitHub
+## whoami
+
+Trabalho com engenharia reversa, análise de binários e segurança ofensiva.
+Gosto de entender como as coisas funcionam por baixo — desmontando executáveis, depurando processos e quebrando abstrações.
+
+Atualmente estudando técnicas avançadas de evasão, análise de malware e exploração de binários.
+Desenvolvimento de ferramentas próprias pra automatizar o que ferramentas genéricas não resolvem.
+
+---
+
+## interesses
+
+```
+Reverse Engineering         →  análise estática e dinâmica de binários
+Malware Analysis            →  fins educacionais / pesquisa
+Binary Exploitation         →  buffer overflow, ROP chains, heap exploitation
+Debugging                   →  WinDbg, GDB, x64dbg
+Web Pentesting              →  recon, exploração, pós-exploração
+Offensive Security          →  desenvolvimento de PoCs e ferramentas ofensivas
+Cryptography Engineering    →  implementações em C e Python
+```
+
+---
+
+## toolset
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevDanielZanata&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevDanielZanata&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)  
+| reversing & analysis | scripting & dev | infra |
+|:---:|:---:|:---:|
+| IDA Pro / Ghidra | Python | Linux |
+| x64dbg / WinDbg | C | Docker |
+| Frida / Radare2 | Bash | QEMU / VMs |
+| Wireshark | pwntools | GDB + peda |
+| YARA | capstone / keystone | objdump / readelf |
 
 </div>
 
 ---
 
-### 📫 Contato
+## projetos
+
+> alguns trabalhos públicos — mais sendo desenvolvidos em privado.
+
+```
+[ em breve ] — analisador estático de binários PE customizado
+[ em breve ] — loader de shellcode com técnicas de evasão
+[ em breve ] — scripts de análise de tráfego encriptado
+```
+
+---
+
+## stats
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-zanata-8755a5321/)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DevDanielZanata)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/danizanata_)  
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=DevDanielZanata&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=6e6e6e&icon_color=4a4a4a&text_color=888888&hide=stars" />
+
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevDanielZanata&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=6e6e6e&text_color=888888&langs_count=5" />
 
 </div>
 
 ---
 
-### 🧮 Extras
+## contato
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=DevDanielZanata&color=blueviolet&style=for-the-badge)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-zanata-8755a5321/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/DevDanielZanata)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/danizanata_)
 
 </div>
 
+---
+
+<div align="center">
+<sub><code>// análise, não script kiddie.</code></sub>
+</div>
