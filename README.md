@@ -8,8 +8,6 @@
 
 </div>
 
----
-
 ## whoami
 
 Trabalho com engenharia reversa, análise de binários e segurança ofensiva.
@@ -60,7 +58,6 @@ Cryptography Engineering    →  implementações em C e Python
 [ em breve ] — scripts de análise de tráfego encriptado
 ```
 -->
----
 
 ## stats
 
