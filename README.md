@@ -63,9 +63,7 @@ Cryptography Engineering    →  implementações em C e Python
 
 <div align="center">
 
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=DevDanielZanata&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=6e6e6e&icon_color=4a4a4a&text_color=888888&hide=stars" />
-
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevDanielZanata&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=6e6e6e&text_color=888888&langs_count=5" />
+![Profile Views](https://komarev.com/ghpvc/?username=DevDanielZanata&color=blueviolet&style=for-the-badge)  
 
 </div>
 
