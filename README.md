@@ -4,15 +4,6 @@
 
 <div align="center">
 
-```
-  ██████╗ ███████╗██╗   ██╗
-  ██╔══██╗██╔════╝██║   ██║
-  ██║  ██║█████╗  ██║   ██║
-  ██║  ██║██╔══╝  ╚██╗ ██╔╝
-  ██████╔╝███████╗ ╚████╔╝
-  ╚═════╝ ╚══════╝  ╚═══╝
-```
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=1000&color=6E6E6E&center=true&vCenter=true&width=435&lines=reverse+engineer+%2F+security+researcher;low+level+%7C+C+%7C+Python+%7C+ASM;malware+analysis+%7C+binary+exploitation)](https://git.io/typing-svg)
 
 </div>
@@ -22,7 +13,7 @@
 ## whoami
 
 Trabalho com engenharia reversa, análise de binários e segurança ofensiva.
-Gosto de entender como as coisas funcionam por baixo — desmontando executáveis, depurando processos e quebrando abstrações.
+Gosto de entender como as coisas funcionam por baixo desmontando executáveis, depurando processos e quebrando abstrações.
 
 Atualmente estudando técnicas avançadas de evasão, análise de malware e exploração de binários.
 Desenvolvimento de ferramentas próprias pra automatizar o que ferramentas genéricas não resolvem.
@@ -50,7 +41,7 @@ Cryptography Engineering    →  implementações em C e Python
 | reversing & analysis | scripting & dev | infra |
 |:---:|:---:|:---:|
 | IDA Pro / Ghidra | Python | Linux |
-| x64dbg / WinDbg | C | Docker |
+| x64dbg / WinDbg | C++ | Docker |
 | Frida / Radare2 | Bash | QEMU / VMs |
 | Wireshark | pwntools | GDB + peda |
 | YARA | capstone / keystone | objdump / readelf |
@@ -58,7 +49,7 @@ Cryptography Engineering    →  implementações em C e Python
 </div>
 
 ---
-
+<!--
 ## projetos
 
 > alguns trabalhos públicos — mais sendo desenvolvidos em privado.
@@ -68,7 +59,7 @@ Cryptography Engineering    →  implementações em C e Python
 [ em breve ] — loader de shellcode com técnicas de evasão
 [ em breve ] — scripts de análise de tráfego encriptado
 ```
-
+-->
 ---
 
 ## stats
